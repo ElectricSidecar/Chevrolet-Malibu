@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    CHEVROLET_EOT_CALC: 86
+  response: |-
+    7E8046211547EAAAAAA
+    > 7E7.7EF.224201
+    CAN ERROR
