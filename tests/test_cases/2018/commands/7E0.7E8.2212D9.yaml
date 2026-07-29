@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2212D9
+test_cases:
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
+  response: |-
+    7E8046212D900AAAAAA
+    > 7E0.7E8.22248E
+    CAN ERROR
+- expected_values:
+    CHEVROLET_TOTAL_KNOCK_RETARD: 0
+  response: |-
+    7E8046212D900AAAAAA
+    > 7E7.7EF.224229
+    CAN ERROR
